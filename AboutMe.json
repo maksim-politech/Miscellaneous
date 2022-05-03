@@ -6,12 +6,12 @@
 "Favorite fiction" : [
 "Посторонний (Камю)", " Игрок (Достоевский)", "Камера обскура (Набоков)", "1984 (Оруэл)"
 ],
-"Favorite videogames" : [
+"Favorite videogames" : {
 "Singles" : [
 "The witcher 3", "The last of us", "Spider-man", "Crash bandicoot"
 ],
 "PvP/PvE" : [
 "Apex Legends", "Destiny", "Battlefield 3-4", "Borderlands 2"
 ]
-]
+}
 }
