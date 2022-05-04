@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding=UTF-8?> <!-- Обязательное объявление версии и кодировки (UTF-8 по умолчанию) -->
+<MyPerson>                           <!-- Корневой элемент только один-->
+<Name>Max</Name>
+<Age type="xs:integer"/>22</Age>     <!-- Значения у атрибутов в кавычках-->
+<Cities local="Saint-Petersburg" hometown="Vladivistok"/>
+<favorite_tittle>
+<Books count="4">
+<book1>Посторонний (Камю)</book1>
+<book2>Игрок (Достоевский)</book2>
+<book3>Камера обскура (Набоков)</book3>
+<book4>1984 (Оруэлл)</book4>
+</Books>
+<Games>
+<Singles format="List">The witcher 3, The last of us, Spider-man, Crash bandicoot</Singles>
+<PvP_PvE format="List">Apex Legends, Destiny, Battlefield 3-4, Borderlands 2</PvP_PvE>
+</Games>
+</favorite_tittle>
+</MyPerson> 
